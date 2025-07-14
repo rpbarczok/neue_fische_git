@@ -37,6 +37,8 @@ public class Main {
 
     // Das ist ein test comment
         // noch ein test comment
+//  mal wieder ein neuer test comment
+        // jetzt reichts aber mal mit den neuen commits
 
         System.out.println("--------------------------------------");
         // Bonus-Aufgabe Studenten
